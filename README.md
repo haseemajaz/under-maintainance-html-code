@@ -32,17 +32,16 @@ To use this Maintenance Page on your website, follow these steps:
 const maintenanceEndTime = new Date('2023-10-12T08:00:00').getTime();
 ```
 
-Contributing
+## Contributing
 If you would like to contribute to this project, feel free to open an issue or submit a pull request. Your contributions are welcome!
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 The icon (⚙️) used in this project is provided by EmojiOne.
 Authors
-[Your Name]
-Feel free to replace "[Your Name]" with your own name or the name of your team, as appropriate.
+Muhammad Haseem Ajaz
 
 We hope this maintenance page helps you effectively communicate with your website visitors during maintenance periods. If you have any questions or need further assistance, please don't hesitate to contact us.
 
