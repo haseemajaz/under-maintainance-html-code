@@ -30,7 +30,7 @@ To use this Maintenance Page on your website, follow these steps:
 ```javascript
 // Set the date and time for when the maintenance will end
 const maintenanceEndTime = new Date('2023-10-12T08:00:00').getTime();
-
+```
 
 Contributing
 If you would like to contribute to this project, feel free to open an issue or submit a pull request. Your contributions are welcome!
